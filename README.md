@@ -37,5 +37,5 @@ The CDX format in these data files is a space delimited file with the following 
 # Known Data Issues
 
 * Compressed Lengths are not consistantly populated in the CDX fields. 
-* Lines that consist of CDX N b a m s k r M S V g are header files for the CDX format and can be ignored
+* Lines that consist of `CDX N b a m s k r M S V g` are header files for the CDX format and can be ignored
 
