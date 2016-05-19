@@ -1,5 +1,7 @@
 *.pyc
 
+data_raw/*
+
 *.cdx
 *.cdx.gz
 *.cdx.gz.md5
