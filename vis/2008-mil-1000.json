@@ -1,0 +1,160 @@
+{
+  "mil": {
+    "defenseimagery": {
+      "dams": 21918
+    },
+    "smallpox": 1098,
+    "korea50": 4737,
+    "defenselink": 502006,
+    "af": 2922,
+    "usmc": 10899,
+    "osd": {
+      "deploymentlink": 5045,
+      "dodig": 7540,
+      "denix": 1591,
+      "acq": {
+        "emissary": 3322
+      }
+    },
+    "uscg": {
+      "cgvi": 1008
+    },
+    "anthrax": 1508,
+    "jsf": 1397,
+    "jcs": 14631,
+    "disa": 3377,
+    "army": {
+      "usacac": 2224,
+      "call": 51227,
+      "aec": 10257,
+      "gordon": 1547,
+      "usace": {
+        "poa": 7008,
+        "fc": 2980,
+        "lrn": 10856,
+        "spn": 6792,
+        "mvn": 26280,
+        "poh": 1759,
+        "spk-wc": 4322,
+        "lrb": {
+          "sharedocs2": 18831
+        },
+        "lrd-wc": 9694,
+        "nao": 6181,
+        "rsc": 7559,
+        "nan": 5089,
+        "crrel": 12056,
+        "lrd": 1620,
+        "spd": 2138,
+        "mvm": 14616,
+        "swf-wc": 4467,
+        "erdc": {
+          "chl": 16428,
+          "jrac": 1903,
+          "el": 74672
+        },
+        "education": 1536,
+        "aed": 2278,
+        "spk": 175470,
+        "casi": 13165,
+        "pof": 1342,
+        "mvd": 2189,
+        "saw": 8800,
+        "swwrp": 1016,
+        "spl": 27118,
+        "nwk": 155734,
+        "hec": 1384,
+        "iwr": 8671,
+        "lrh-wc": 1025,
+        "nws": 7271,
+        "lrc": 3040,
+        "nap": 3763,
+        "swf": 6893,
+        "lrl": 4017,
+        "swt": 8609,
+        "mvs": {
+          "mvs-wc": 9423
+        },
+        "nae": 11742,
+        "nwp": 10439,
+        "environment": 14940,
+        "hnd": 3515,
+        "nwd-wc": 138100,
+        "lrp": 1772,
+        "mvk": 4550,
+        "hq": 1713,
+        "pdc": 4894,
+        "swt-wc": 153083,
+        "mvp": 7563,
+        "ekopowered": 12177,
+        "sac": 3470,
+        "swl": 9383,
+        "cw-environment": 1811,
+        "corpslakes": 42259,
+        "sam": {
+          "water": 3550,
+          "lanier": 2082,
+          "chps": 3901
+        },
+        "spa": 4125,
+        "sas": 4805,
+        "mvp-wc": 1870,
+        "swg": 2389,
+        "frf": 6011,
+        "mvr": 28533,
+        "operations": 189008,
+        "orn": 3534,
+        "lre": 14240,
+        "nww": 20477,
+        "eko": 18960,
+        "lrh": {
+          "inlandwaterways": 2139,
+          "outreach": 1639
+        },
+        "nwo": {
+          "im4": 1923
+        },
+        "saj": {
+          "hpm": 54632
+        },
+        "nab": 10901,
+        "dksrv": 26326,
+        "grd": 5319,
+        "eportal": 10110
+      },
+      "wes": {
+        "ipet": 1489
+      },
+      "www-tradoc": 9643,
+      "amedd": {
+        "wramc": 12009
+      },
+      "cjtf7": 134507,
+      "safety": 2486,
+      "hqda": 1163,
+      "cpol": 8591
+    },
+    "mda": 2425,
+    "darpa": 2663,
+    "usuhs": 9603,
+    "marines": 41770,
+    "whs": 1603,
+    "dia": 1995,
+    "southcom": 3847,
+    "vaccines": 5638,
+    "dtic": 3516,
+    "americasupportsyou": 1475,
+    "dodvclips": 2877,
+    "dau": 1107,
+    "centcom": 13578,
+    "dod": 1725,
+    "health": 1023,
+    "tricare": 1772,
+    "navy": {
+      "onr": 1081,
+      "history": 1241,
+      "lifelines": 3500,
+      "safetycenter": 71081
+    }
+  }
+}

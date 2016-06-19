@@ -1,0 +1,148 @@
+{
+  "mil": {
+    "army": {
+      "mc4": 32512,
+      "usar": 17442,
+      "eur": 27647,
+      "pica": 20337,
+      "history": 59709,
+      "usarec": 10652,
+      "bands": 27209,
+      "strategicstudiesinstitute": 102860,
+      "amedd": {
+        "medcomsafety": 15149,
+        "cs": 11839,
+        "ermc": 20724,
+        "ameddregiment": 10016
+      },
+      "signal": {
+        "ia": 13398
+      },
+      "benning": 41573,
+      "ecbc": 13246,
+      "hrc": 49229,
+      "usace": {
+        "mvn": 37109,
+        "frf": 13730,
+        "erdc": {
+          "chl": 10309
+        }
+      },
+      "wood": 12651,
+      "usacac": 46351,
+      "stewart": 11105,
+      "cma": 19045,
+      "cdmrp": 24196,
+      "ameddcs": 10597,
+      "hqda": 13259,
+      "erdc": {
+        "itl": 24394
+      }
+    },
+    "usmc": {
+      "marineband": 34469
+    },
+    "socom": 15237,
+    "dodlive": {
+      "warriorcare": 17741,
+      "armylive": {
+        "armygk": 29194
+      }
+    },
+    "pentagonchannel": 60422,
+    "navy": {
+      "usno": 74233,
+      "jag": 21876,
+      "nrlssc": 29070,
+      "history": 375269,
+      "navyband": 10027,
+      "navair": 1556320,
+      "doncio": 231846,
+      "navsea": 11384,
+      "acquisition": 13806,
+      "netc": 26690,
+      "med": 58703,
+      "public": 11818,
+      "cnic": 251681
+    },
+    "usfk": 14935,
+    "health": {
+      "dcoe": 41283
+    },
+    "nationalguard": 108854,
+    "northcom": 20528,
+    "norad": 10051,
+    "dla": 69467,
+    "africom": 53026,
+    "tricare": 220349,
+    "mda": 16137,
+    "pentagon": {
+      "army": {
+        "dami": 11950
+      }
+    },
+    "af": {
+      "amc": {
+        "18af": 14161
+      },
+      "hill": 44414,
+      "ang": {
+        "166aw": 20063,
+        "151arw": 16221
+      }
+    },
+    "dss": 17177,
+    "dfas": {
+      "mypay": 22089
+    },
+    "centcom": 74840,
+    "eucom": 106303,
+    "dcma": 64681,
+    "marines": 123857,
+    "esi": 13989,
+    "disa": 30502,
+    "ourmilitary": 30496,
+    "jsf": 12222,
+    "dod": 76982,
+    "militaryonesource": {
+      "apps": 157144
+    },
+    "dma": {
+      "media": 137581
+    },
+    "transcom": 51264,
+    "vaccines": 856113,
+    "darpa": 29231,
+    "uscg": {
+      "cgvi": 13527
+    },
+    "esgr": 212741,
+    "sigir": 53939,
+    "dau": 80447,
+    "dc3": 10600,
+    "stratcom": 33334,
+    "pacom": 18159,
+    "osd": {
+      "acq": 412518,
+      "dmdc": {
+        "siadapp": 559076
+      },
+      "dsca": 26850,
+      "dinfos": 22285,
+      "fhpr": {
+        "deploymenthealthlibrary": 39882,
+        "gulflink": 262246
+      },
+      "denix": 60319,
+      "gulflink": 306778,
+      "cpms": 60647,
+      "mhs": 279485,
+      "dodmedia": 26740
+    },
+    "dtic": 123700,
+    "dodig": 38971,
+    "southcom": 47130,
+    "defenseimagery": 10193,
+    "whs": 18730
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "mil": {
+    "northcom": 20528,
+    "pfpa": 2113,
+    "dtra": {
+      "dtirp": 3136
+    },
+    "whs": 18730,
+    "ourmilitary": 30496,
+    "darpa": {
+      "archive": 4183
+    },
+    "af": {
+      "seymourjohnson": 7743,
+      "offutt": 7716,
+      "fairchild": 7630,
+      "au": 9300,
+      "dyess": 7779,
+      "vandenberg": 8156,
+      "ang": {
+        "107aw": 2159,
+        "180fw": 1738,
+        "136aw": 1272,
+        "151arw": 16221,
+        "128arw": 3231,
+        "hancockfield": 4079,
+        "volkfield": 1007,
+        "126arw": 1806,
+        "103aw": 2175,
+        "166aw": 20063,
+        "119wg": 1934,
+        "181iw": 1391,
+        "146aw": 1950,
+        "111fw": 1105
+      },
+      "afcent": {
+        "380aew": 7321,
+        "379aew": 7365,
+        "332aew": 7392,
+        "manas": 7351
+      },
+      "columbus": 5892,
+      "afms": 7847,
+      "eielson": 7788,
+      "jble": 8102,
+      "acc": {
+        "552acw": 1468,
+        "388fw": 1510
+      },
+      "edwards": {
+        "bsx": 1212
+      },
+      "jointbasemdl": 7926,
+      "whasc": 4919,
+      "altus": 6927,
+      "andersen": 7813,
+      "wingmanmagazine": 1250,
+      "usafreserveband": 1325,
+      "woundedwarrior": 2249,
+      "dover": 8015,
+      "jber": 8052,
+      "drillteam": 4054,
+      "whiteman": 6491,
+      "kirtland": 7804,
+      "hq": {
+        "safsp": 6337
+      },
+      "macdill": 7595,
+      "mortuary": 7765,
+      "yokota": 7937,
+      "aviano": 7637,
+      "pacaf": {
+        "7af": 2843
+      },
+      "tinker": 7933,
+      "aetc": {
+        "torch": 5214
+      },
+      "osan": 8395,
+      "peterson": 7898,
+      "amc": 8102,
+      "usafband": 7488,
+      "hanscom": 8093,
+      "maxwell": {
+        "aupress": 3017
+      },
+      "24af": 2700,
+      "afwa": {
+        "afweather": 3513
+      },
+      "misawa": 7805,
+      "shaw": 7868,
+      "afmc": 6727,
+      "307bw": 7517,
+      "afsec": 2420,
+      "hill": 44414,
+      "losangeles": 4649,
+      "wpafb": {
+        "edoutreach": 3036
+      },
+      "kunsan": 8126,
+      "bandofthepacific-asia": 1836,
+      "afrc": {
+        "433aw": 7116,
+        "908aw": 2701,
+        "youngstown": 5762,
+        "624rsg": 1490,
+        "315aw": 7396,
+        "931arg": 5638,
+        "westover": 7394,
+        "507arw": 2377,
+        "pope": 3029,
+        "10af": 1544,
+        "442fw": 7202,
+        "514amw": 3145,
+        "minneapolis": 5888,
+        "349amw": 5215,
+        "920rqw": 7273
+      },
+      "grandforks": 7646
+    },
+    "ng": 5707,
+    "dau": 80447,
+    "vaccines": 856113,
+    "afirm": 1311,
+    "dod": 76982,
+    "centcom": 74840,
+    "marines": {
+      "pendleton": 7359,
+      "marcorsyscom": 3450,
+      "9thmcd": 6272,
+      "cbirf": 1436,
+      "mcieast": 2102,
+      "1stmlg": 6942,
+      "mcbhawaii": 6904,
+      "beaufort": 6923,
+      "barracks": 5488,
+      "mclbbarstow": 5564,
+      "albany": 7792,
+      "marcent": 7500,
+      "13thmeu": 4627,
+      "community": 8206,
+      "iimef": 7689,
+      "macg28": 1026,
+      "imef": 6697,
+      "iiimef": 1882,
+      "6thmcd": 1035,
+      "tecom": 8428,
+      "newriver": 6416,
+      "mag14": 1109,
+      "marforpac": 6903,
+      "11thmeu": 6081,
+      "hqmc": 8360,
+      "3rdmaw": 6946,
+      "22ndmeu": 6896,
+      "mcipac": 7602,
+      "2ndmaw": 7335,
+      "marforsouth": 5266,
+      "31stmeu": 7185,
+      "1stmardiv": 6978,
+      "mcrc": 7282,
+      "29palms": 7419,
+      "lejeune": 7667,
+      "mcasyuma": 6926,
+      "iandl": 1109,
+      "marsoc": 3140,
+      "mag29": 1119,
+      "mcrdsd": 7546,
+      "15thmeu": 6896,
+      "marforaf": 4341,
+      "marforres": 8113,
+      "24thmeu": 7614,
+      "2ndmardiv": 7610
+    },
+    "pentagon": {
+      "army": {
+        "dami": 11950
+      }
+    },
+    "mda": 16137,
+    "nationalguard": 108854,
+    "southcom": 47130,
+    "dtic": {
+      "handle": 1793
+    },
+    "army": {
+      "scguard": 6055,
+      "portal": {
+        "signal": 2159
+      },
+      "tec": {
+        "crunch": 1693
+      },
+      "mccoy": 6977,
+      "tacom": {
+        "contracting": 3985
+      },
+      "us": {
+        "centcom": 7013
+      },
+      "goordnance": 2307,
+      "1id": 9898,
+      "atrrs": 5291,
+      "cpp-login": 3715,
+      "redstone": 1878,
+      "knox": 3824,
+      "armyg1": 4182,
+      "tfeagle": 5308,
+      "safety": 7799,
+      "bliss": 3479,
+      "apg": {
+        "peoiews": 4627
+      },
+      "grafenwoehr": 2080,
+      "amedd": {
+        "mrmc": 3815,
+        "cs": 11839,
+        "narmc": {
+          "kenner": 2671
+        },
+        "ameddmuseum": 9919,
+        "tamc": 1768,
+        "mamc": 5987,
+        "usammce": 1771,
+        "vets": 6719,
+        "ermc": 20724,
+        "ameddregiment": 10016,
+        "nrmc": {
+          "kenner": 2441
+        },
+        "usacehr": 1389
+      },
+      "drum": 3299,
+      "brussels": 9086,
+      "acc": 5723,
+      "arnorth": 1288,
+      "1stiocmd": 2883,
+      "hqda": 13259,
+      "redriver": 7657,
+      "cma": 19045,
+      "mcclellan": 1220,
+      "hrc": 49229,
+      "yuma": 1075,
+      "wood": 12651,
+      "arng": 9249,
+      "imc2": 4661,
+      "rucker": 1714,
+      "cape": 1607,
+      "hamilton": 1270,
+      "ciog6": 1284,
+      "peoacwa": 1854,
+      "transportation": 3378,
+      "eustis": {
+        "jdtc": 1929
+      },
+      "bctmod": 1172,
+      "409csb": 2001,
+      "dix": 1076,
+      "chess": 3088,
+      "carl": 6948,
+      "usarak": 7557,
+      "ameddcs": 10597,
+      "cpol": {
+        "cpolrhp": 2533
+      },
+      "cdmrp": 24196,
+      "train": {
+        "rdl": 6867,
+        "atiam": 5880
+      },
+      "eur": {
+        "library": 1081,
+        "usagbenelux": 1326,
+        "bw": 3205
+      },
+      "stewart": 11105,
+      "history": 59709,
+      "ulinet": {
+        "library": 1074
+      },
+      "usace": {
+        "lrl": 4015,
+        "education": 1485,
+        "maps": 4661,
+        "eportal": 7229,
+        "tad": 1002,
+        "crrel": 1174,
+        "nwo": {
+          "nwo31": 5240
+        },
+        "geo": 7176,
+        "nap": 3310,
+        "spn": 7173,
+        "nab": 7418,
+        "planning": 2383,
+        "mvm": 4999,
+        "nws": 3406,
+        "mvn": 37109,
+        "rec-swt": 2939,
+        "nwd": 1408,
+        "saw": 1758,
+        "poa": 3319,
+        "nwd-wc": 7160,
+        "cirp": 7766,
+        "sac": 3169,
+        "iwr": 7651,
+        "nad": 1988,
+        "nww": 3263,
+        "saj": 5851,
+        "swt": 3507,
+        "nao": 3342,
+        "lre": 6996,
+        "corpslakes": 7193,
+        "cw-environment": 3190,
+        "spa": 4822,
+        "mvp-wc": 1710,
+        "hnd": 2772,
+        "sas": 6398,
+        "frf": 13730,
+        "rsc": 6609,
+        "swl": 2594,
+        "poh": {
+          "gis": 1710
+        },
+        "swd": 1489,
+        "lrp": 3118,
+        "operations": 2094,
+        "pof": 2191,
+        "nae": 5043,
+        "swg": {
+          "ww3": 2696
+        },
+        "publications": 7069,
+        "mrsi": 5547,
+        "lrd-wc": 2770,
+        "spl": 4095,
+        "nan": 4769,
+        "lrn": {
+          "www-wm": 2041
+        },
+        "erdc": {
+          "chl": 10309,
+          "el": 3754
+        },
+        "mvd": 1713,
+        "mvk": 1391,
+        "swt-wc": 2272,
+        "swl-wc": 6957,
+        "pdc": 2994,
+        "nld": 7589,
+        "swf": 1810,
+        "hec": 1241,
+        "nwp": 3157,
+        "mvr": {
+          "rivergages": 2748
+        },
+        "nwd-mr": 1172,
+        "lrh": {
+          "outreach": 1957
+        },
+        "lrc": 1975,
+        "sam": {
+          "water": 4094
+        },
+        "mvs": {
+          "mvs-wc": 6973
+        },
+        "spk-wc": 5623,
+        "geoplatform": 4784,
+        "aed": 5765,
+        "mvp": 3256,
+        "swf-wc": 4641,
+        "spk": 3938,
+        "nwk": 4326,
+        "lrb": 2622
+      },
+      "jrtc-polk": 3616,
+      "alu": 2975,
+      "cool": 3072,
+      "inscom": 1204,
+      "agc": 7239,
+      "crc": {
+        "crcapps3": 6178
+      },
+      "armymedicine": 3732,
+      "asamra": 1006,
+      "arsouth": 8613,
+      "otc": 2614,
+      "atsc": {
+        "ile": 6215
+      },
+      "monterey": {
+        "pom-ima": 1023
+      },
+      "westpoint": {
+        "usag": 4710
+      },
+      "arl": 6353,
+      "wtc": 1309,
+      "tobyhanna": 3205,
+      "wainwright": 3509,
+      "mcaap": 1865,
+      "ngb": {
+        "ndguard": 9224,
+        "md": 2132,
+        "va": {
+          "vko": 2472
+        },
+        "nm": 1472,
+        "wv": 2396,
+        "ut": 7691,
+        "ngbpdc": 1959,
+        "al": 2441,
+        "nv": 1129,
+        "nc": 5764,
+        "sdguard": 6870,
+        "pec": 1960,
+        "mi": 1016,
+        "me": 3775,
+        "tn": 1809,
+        "ok": 3121,
+        "il": 2247
+      },
+      "mc4": 32512,
+      "bragg": {
+        "pwbc": 3690,
+        "pao": 7512
+      },
+      "bands": 27209,
+      "schweinfurt": 1724,
+      "wiesbaden": 2335,
+      "cecom": 7117,
+      "usarj": 2099,
+      "ima": 1765,
+      "korea": {
+        "8tharmy": 2013,
+        "humphreys": 3244,
+        "redcloud": 2812,
+        "www-2id": 1517,
+        "yongsan": 1841,
+        "2id": 1524
+      },
+      "vicenza": {
+        "usag": 1589
+      },
+      "lia": 1039,
+      "letterkenny": 1824,
+      "architecture": 1188,
+      "usar": 17442,
+      "natick": {
+        "nsrdec": 1849
+      },
+      "arcent": 7040,
+      "tradoc": 3191,
+      "jagcnet": 7328,
+      "garmisch": 2439,
+      "pksoi": 1314,
+      "asc": 9506,
+      "ssc": 1405,
+      "usacac": 46351,
+      "lee": {
+        "qmmuseum": 1511
+      },
+      "www-tradoc": 2563,
+      "25idl": 1795,
+      "tardec": 9701,
+      "ecbc": 13246,
+      "hqusareur": {
+        "healthcare": 1712
+      },
+      "leavenworth": {
+        "blackboard3": 6291,
+        "usacac": 7281,
+        "fmso": 1282
+      },
+      "cascom": 1139,
+      "hqdainet": 2272,
+      "smallpox": 2211,
+      "wes": {
+        "ipet": 4935,
+        "sandbar": 2101,
+        "wwwel": 2984
+      },
+      "torii": 2057,
+      "buchanan": 1326,
+      "aschq": 1469,
+      "cecer": {
+        "sms": 6513
+      },
+      "usaac": 1020,
+      "carlisle": 7104,
+      "usarpac": 7466,
+      "riley": 9807,
+      "jackson": 7167,
+      "pmcd": 3482,
+      "mwrportal": 1606,
+      "usacacblogs": 6440,
+      "armypubs": 7464,
+      "sill-www": 9045,
+      "ftmeade": 2800,
+      "16sustainment": 1136,
+      "aec": 4984,
+      "pica": {
+        "picac2w4": 1678
+      },
+      "21tsc": 1754,
+      "benning": 41573,
+      "mepcom": 1682,
+      "apd": 7981,
+      "irwin": 1761,
+      "beta": 6375,
+      "hood": {
+        "pao": 1372
+      },
+      "mrmc-rad6": 4095,
+      "wsmr": 7667,
+      "sddc": {
+        "sddcbiz": 3755
+      },
+      "almc": 7242,
+      "apgea": {
+        "jscbis": 1263,
+        "www-pmcd": 3437,
+        "doehrsas": 8256,
+        "pmcd": 3440,
+        "cbrniac": 1432
+      },
+      "devens": 1525,
+      "smdc": 7799,
+      "erdc": {
+        "itl": 24394
+      },
+      "samhouston": 3417,
+      "detrick": 6017,
+      "signal": {
+        "ia": 13398
+      },
+      "belvoir": 2388,
+      "ascp": 2787,
+      "acap": 3172,
+      "bamberg": 1513,
+      "usarec": 10652,
+      "usacapoc": 3018,
+      "imcom-europe": 1534,
+      "floridaguard": 5022,
+      "hawaii": {
+        "garrison": 3300
+      },
+      "carson": 7770,
+      "monroe": {
+        "www-tradoc": 2374,
+        "tradoc": 2373
+      },
+      "peosoldier": 2124,
+      "baumholder": 3773,
+      "quartermaster": 4406,
+      "strategicstudiesinstitute": 102860,
+      "afsc": 1177,
+      "ssi": 1755,
+      "campbell": 6792,
+      "mrmc-www": 1742,
+      "usaraf": 1858,
+      "acsim": 1321,
+      "asafm": 3389,
+      "osc": 1116,
+      "peostri": 1683,
+      "gordon": 3424
+    },
+    "health": {
+      "dcoe": 41283
+    },
+    "uscg": {
+      "homeport": 7116,
+      "cgvi": 13527,
+      "fincen": 1997
+    },
+    "jsf": 12222,
+    "dtsa": 1051,
+    "defenseimagery": 10193,
+    "msco": 1747,
+    "dss": 17177,
+    "usmc": {
+      "manpower": 8488,
+      "marineband": 34469
+    },
+    "mc": 8861,
+    "dla": {
+      "energy": 3460,
+      "ddc": 4666,
+      "dispositionservices": 6551,
+      "aviation": 6089,
+      "landandmaritime": 6691,
+      "distribution": 3985
+    },
+    "medicalmuseum": 7135,
+    "sapr": 2580,
+    "dcaa": 2699,
+    "dodlive": {
+      "coastguard": 7701
+    },
+    "militaryonesource": {
+      "apps": 157144,
+      "msepjobs": 3946
+    },
+    "osd": {
+      "dinfos": 22285,
+      "jpeocbd": 2090,
+      "dodmedia": 26740,
+      "dote": 3204,
+      "dmdc": {
+        "siadapp": 559076
+      },
+      "dsca": 26850,
+      "gulflink": 306778,
+      "acq": 412518,
+      "mhs": 279485,
+      "fhpr": {
+        "deploymenthealthlibrary": 39882,
+        "gulflink": 262246
+      },
+      "denix": 60319,
+      "anthrax": 3204,
+      "cpms": {
+        "cacdiucs": 7898,
+        "godefense": 6894
+      },
+      "fhp": 5829
+    },
+    "pentagonchannel": 60422,
+    "dcma": 64681,
+    "eucom": 106303,
+    "dma": 2735,
+    "dc3": 10600,
+    "usfk": 14935,
+    "nga": {
+      "msi": 7193,
+      "dnc": 7043
+    },
+    "esi": 13989,
+    "dia": 1385,
+    "dhra": 6257,
+    "arlingtoncemetery": 9604,
+    "transcom": 51264,
+    "dodig": 38971,
+    "disa": {
+      "jitc": 4014,
+      "ncr": {
+        "dsnbbs": 2615
+      },
+      "fhu": {
+        "jit": 1211
+      },
+      "stl": 2941,
+      "nit": {
+        "nit-jitc": 6923
+      }
+    },
+    "socom": {
+      "socpac": 2747
+    },
+    "defenselink": 1866,
+    "pacom": 18159,
+    "navy": {
+      "hq": {
+        "finance": 1187
+      },
+      "cpf": 4164,
+      "bracpmo": 5038,
+      "weather": 1715,
+      "cacclw": 1084,
+      "public": 11818,
+      "cni": 6015,
+      "navfac": {
+        "portal": 2794
+      },
+      "cool": 4316,
+      "onr": 4002,
+      "navsea": 11384,
+      "med": {
+        "nhbeaufort": 1552
+      },
+      "leapfrogs": 1040,
+      "c7f": 7001,
+      "navyreserve": 3398,
+      "nrlmry": {
+        "cavu": 7622
+      },
+      "nmci": {
+        "sscno": {
+          "e-commerce": 6102
+        }
+      },
+      "navair": 1556320,
+      "acquisition": 13806,
+      "ipv6": 6341,
+      "secnav": 1616,
+      "usno": 74233,
+      "blueangels": 5832,
+      "netc": 26690,
+      "history": 375269,
+      "ncis": 4480,
+      "nimitz": 2270,
+      "nrl": {
+        "torpedo": 1109,
+        "itd": {
+          "pf": 4082
+        },
+        "louis14": 1880
+      },
+      "nlmoc": 1700,
+      "nrlssc": 29070,
+      "spawar": {
+        "e-commerce": 6109,
+        "nesipublic": 1984,
+        "environ": 6205
+      },
+      "cusnc": 7090,
+      "ig": 1220,
+      "cnet": {
+        "usmap": 1186
+      },
+      "csg7": 4367,
+      "jag": 21876,
+      "ctf74": 4390,
+      "nwdc": 3097,
+      "navyband": 10027,
+      "doncio": 231846,
+      "cnic": 251681,
+      "nps": {
+        "weather": 7387
+      },
+      "ctf76": 6374
+    },
+    "stratcom": 33334,
+    "norad": 10051,
+    "jcs": 4002,
+    "sigir": 53939,
+    "esgr": 212741,
+    "dfas": {
+      "mypay": 22089
+    },
+    "africom": {
+      "ikd-m": 7274
+    },
+    "tricare": 220349
+  }
+}
