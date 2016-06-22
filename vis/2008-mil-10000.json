@@ -1,0 +1,68 @@
+{
+  "mil": {
+    "af": {
+      "usafa": {
+        "peregrine": 121566
+      }
+    },
+    "navy": {
+      "safetycenter": 71081
+    },
+    "uscg": 133143,
+    "army": {
+      "cjtf7": 134507,
+      "usace": {
+        "nae": 11742,
+        "saj": {
+          "hpm": 54632
+        },
+        "nwk": 155734,
+        "lrn": 10856,
+        "nww": 20477,
+        "dksrv": 26326,
+        "crrel": 12056,
+        "nwd-wc": 138100,
+        "lre": 14240,
+        "mvm": 14616,
+        "spk": 175470,
+        "eportal": 10110,
+        "erdc": {
+          "el": 74672,
+          "chl": 16428
+        },
+        "lrh": 37660,
+        "nab": 10901,
+        "mvs": 13992,
+        "mvr": 28533,
+        "swt-wc": 153083,
+        "environment": 14940,
+        "nwp": 10439,
+        "eko": 18960,
+        "operations": 189008,
+        "ekopowered": 12177,
+        "lrb": {
+          "sharedocs2": 18831
+        },
+        "corpslakes": 42259,
+        "spl": 27118,
+        "mvn": 26280
+      },
+      "call": 51227,
+      "amedd": {
+        "wramc": 12009
+      },
+      "aec": 10257
+    },
+    "jcs": 14631,
+    "usmc": 10899,
+    "centcom": 13578,
+    "defenselink": 502006,
+    "osd": {
+      "acq": 157015
+    },
+    "defenseimagery": {
+      "dams": 21918
+    },
+    "marines": 41770
+  }
+}
